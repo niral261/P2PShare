@@ -1,6 +1,6 @@
-# AOS Assignment 3 — P2P file sharing
+# P2P file sharing
 
-C++17 implementation for roll number **2026201045**. This version extends the supplied user/group and multi-tracker project with peer file serving and downloads. It keeps the original class-based structure, camelCase names, POSIX calls, and simple command handling.
+This version extends the supplied user/group and multi-tracker project with peer file serving and downloads.
 
 ## 1. Build and run
 
